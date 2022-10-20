@@ -9,7 +9,9 @@ Analysing the results with different inputs to the Neural network.
 
 ## Inputs:
   -Matrix of the game (snake, fruits, walls)
+  
   -Vision of the snake in different directions()
+  
   -Vision of the snake in different directions + distance to fruit in each direction
 
 ## Outputs:
@@ -21,5 +23,7 @@ Analysing the results with different inputs to the Neural network.
   
 ## Rewards:
   +Snake going to the direction of the fruit.
+  
   +Snake eating the fruit.
+  
   -Snake moving opposite direction of the fruit.
