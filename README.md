@@ -14,7 +14,9 @@ Analysing the results with different inputs to the Neural network.
 
 ## Outputs:
   -Move Straight
+  
   -Move Right
+  
   -Move Left
   
 ## Rewards:
